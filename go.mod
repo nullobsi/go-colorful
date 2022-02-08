@@ -1,3 +1,3 @@
-module github.com/lucasb-eyer/go-colorful
+module github.com/nullobsi/go-colorful
 
 go 1.12
